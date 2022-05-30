@@ -1,0 +1,30 @@
+body {
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #66CDAA;
+}
+
+main>div {
+    display: #66CDAA;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+form {
+    background-color: #66CDAA;
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+}
+
+select {
+    width: 150px;
+    margin: 10px;
+}
+
+button {
+    margin-top: 5px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+}
